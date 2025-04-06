@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/WenderPadovani">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WenderPadovani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenderPadovani&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WenderPadovani&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenderPadovani&layout=compact&langs_count=6&theme=noctis_minimus"/>
 </div>
     
 <div style="display: inline_block"><br>
